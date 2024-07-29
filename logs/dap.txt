@@ -1,0 +1,15 @@
+!! ⚠️ PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING ⚠️ !!
+Dart Code extension: 3.80.0
+Flutter extension: 3.80.0 (activated)
+
+App: Visual Studio Code
+App Host: desktop
+Version: win 1.85.1
+
+
+Logging Categories:
+    DAP
+
+Wed Dec 27 2023 [21:56:38 GMT+0700 (Western Indonesia Time)] Log file started
+[10:12:14 PM] [General] [Warn] Unable to launch due to no active device
+Wed Dec 27 2023 [22:12:33 GMT+0700 (Western Indonesia Time)] Log file ended

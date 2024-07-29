@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074725403824",
+    "project_id": "skripsi-jakeats",
+    "storage_bucket": "skripsi-jakeats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074725403824:android:3b07806e435f6512e08f75",
+        "android_client_info": {
+          "package_name": "com.example.skripsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKbuWc_vTYm0VTkKv-XcmCwmy2IN7rvQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

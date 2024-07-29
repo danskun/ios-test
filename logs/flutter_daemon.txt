@@ -1,0 +1,21 @@
+!! ⚠️ PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING ⚠️ !!
+Dart Code extension: 3.80.0
+Flutter extension: 3.80.0 (activated)
+
+App: Visual Studio Code
+App Host: desktop
+Version: win 1.85.1
+
+
+Logging Categories:
+    FlutterDaemon
+
+Wed Dec 27 2023 [21:56:38 GMT+0700 (Western Indonesia Time)] Log file started
+[9:56:38 PM] [FlutterDaemon] [Info] Spawning D:\projek flutter skripsi\flutter\bin\flutter.bat with args ["daemon"]
+[9:56:38 PM] [FlutterDaemon] [Info] ..  in D:\projek flutter skripsi\flutter
+[9:56:38 PM] [FlutterDaemon] [Info] ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code","FLUTTER_ROOT":"D:\\projek flutter skripsi\\flutter"}}
+[9:56:38 PM] [FlutterDaemon] [Info]     PID: 21436
+[9:56:38 PM] [FlutterDaemon] [Info] <== Error: Unable to find git in your PATH.
+[9:56:38 PM] [FlutterDaemon] [Info] Process D:\projek flutter skripsi\flutter\bin\flutter.bat terminated! 1, null
+[10:12:14 PM] [General] [Warn] Unable to launch due to no active device
+Wed Dec 27 2023 [22:12:33 GMT+0700 (Western Indonesia Time)] Log file ended
